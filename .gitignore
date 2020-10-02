@@ -1,0 +1,8 @@
+/.settings/
+/target/
+/.classpath
+/.project
+/tomcat.8080
+/.idea
+jwp-basic.iml
+/bin/
