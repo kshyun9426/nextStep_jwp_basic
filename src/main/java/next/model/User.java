@@ -65,6 +65,10 @@ public class User {
             return false;
         return true;
     }
+    
+    public boolean isSameUser(User user) {
+        return userId.equals(user.userId);
+    }
 
 	@Override
 	public String toString() {
